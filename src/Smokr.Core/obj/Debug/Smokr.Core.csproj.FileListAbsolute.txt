@@ -1,0 +1,13 @@
+c:\Users\Will\documents\visual studio 2013\Projects\Smokr\Smokr.Core\obj\Debug\Smokr.Core.csprojResolveAssemblyReference.cache
+c:\Users\Will\documents\visual studio 2013\Projects\Smokr\Smokr.Core\bin\Debug\Smokr.Core.dll
+c:\Users\Will\documents\visual studio 2013\Projects\Smokr\Smokr.Core\bin\Debug\Smokr.Core.pdb
+c:\Users\Will\documents\visual studio 2013\Projects\Smokr\Smokr.Core\obj\Debug\Smokr.Core.dll
+c:\Users\Will\documents\visual studio 2013\Projects\Smokr\Smokr.Core\obj\Debug\Smokr.Core.pdb
+c:\Users\Will\documents\visual studio 2013\Projects\Smokr\Smokr.Core\bin\Debug\Newtonsoft.Json.dll
+c:\Users\Will\documents\visual studio 2013\Projects\Smokr\Smokr.Core\bin\Debug\Newtonsoft.Json.xml
+c:\Users\Will\documents\visual studio 2013\Projects\Smokr\Smokr.Core\bin\Debug\Smokr.Core.dll.config
+c:\Users\Will\documents\visual studio 2013\Projects\Smokr\Smokr.Core\bin\Debug\System.Net.Http.Extensions.dll
+c:\Users\Will\documents\visual studio 2013\Projects\Smokr\Smokr.Core\bin\Debug\System.Net.Http.Primitives.dll
+c:\Users\Will\documents\visual studio 2013\Projects\Smokr\Smokr.Core\bin\Debug\System.Net.Http.Extensions.xml
+c:\Users\Will\documents\visual studio 2013\Projects\Smokr\Smokr.Core\bin\Debug\System.Net.Http.Primitives.xml
+c:\Users\Will\documents\visual studio 2013\Projects\Smokr\Smokr.Core\obj\Debug\Smokr.Core.csproj.App.config

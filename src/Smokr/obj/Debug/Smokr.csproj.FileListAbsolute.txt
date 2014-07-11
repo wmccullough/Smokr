@@ -1,0 +1,11 @@
+c:\users\will\documents\visual studio 2013\Projects\Smokr\Smokr\bin\Debug\Smokr.exe.config
+c:\users\will\documents\visual studio 2013\Projects\Smokr\Smokr\bin\Debug\Smokr.exe
+c:\users\will\documents\visual studio 2013\Projects\Smokr\Smokr\bin\Debug\Smokr.pdb
+c:\users\will\documents\visual studio 2013\Projects\Smokr\Smokr\bin\Debug\Smokr.Core.dll
+c:\users\will\documents\visual studio 2013\Projects\Smokr\Smokr\bin\Debug\Smokr.Core.pdb
+c:\users\will\documents\visual studio 2013\Projects\Smokr\Smokr\obj\Debug\Smokr.csprojResolveAssemblyReference.cache
+c:\users\will\documents\visual studio 2013\Projects\Smokr\Smokr\obj\Debug\Smokr.exe
+c:\users\will\documents\visual studio 2013\Projects\Smokr\Smokr\obj\Debug\Smokr.pdb
+c:\users\will\documents\visual studio 2013\Projects\Smokr\Smokr\bin\Debug\Smokr.json
+c:\users\will\documents\visual studio 2013\Projects\Smokr\Smokr\bin\Debug\Newtonsoft.Json.dll
+c:\users\will\documents\visual studio 2013\Projects\Smokr\Smokr\bin\Debug\Newtonsoft.Json.xml

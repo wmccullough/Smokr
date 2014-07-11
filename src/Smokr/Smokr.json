@@ -1,0 +1,20 @@
+﻿{
+    "Tests" : {
+        "Website" : {
+            "Http" : {
+                "Name" : "Check if google is up",
+                "Uri" : "http://google.com"
+            },
+            "Location" : {
+                "Name" : "Check C: exists",
+                "Uri" : "C:\\"
+            },
+            "AppSetting" : {
+                "Name" : "Check app setting exists",
+                "Uri" : "Smokr.exe.config",
+                "Key" : "Test",
+                "ExpectedValue" : "Value"
+            }
+        }
+    }
+}
